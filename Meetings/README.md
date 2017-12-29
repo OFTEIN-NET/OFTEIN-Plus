@@ -1,7 +1,7 @@
 # OF@TEIN+ Meetings
 
 ## [OF@TEIN+ Meeting @ NCKU, Taiwan, 2017](Tainan-meeting-2017.md)
-![Tainan-meeting-2017](../Images/KL-meeting-2017.jpeg)
+![Tainan-meeting-2017](../Images/Tainan-meeting-2017.jpeg)
 
 ## [OF@TEIN+ Meeting @ Dalian, China, 2017](Dalian-meeting-2017.md)
 ![Dalian-meeting-2015](../Images/Dalian-meeting-2017.jpeg)
