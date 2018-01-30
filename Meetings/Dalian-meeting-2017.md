@@ -1,7 +1,7 @@
-##OF@TEIN+ Meeting @ Dalian, China, 2017
+## OF@TEIN+ Meeting @ Dalian, China, 2017
 
-###Date: 27th August (09.00 - 17.00)
-###Venue: Somerset Harbour Court Dalian Serviced Apartment
+### Date: 27th August (09.00 - 17.00)
+### Venue: Somerset Harbour Court Dalian Serviced Apartment
 
 Discussion of action plans and activities ownership for the next 6 months. The task of the Chair is to lead the discussion.
 
