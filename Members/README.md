@@ -9,7 +9,7 @@ No | Name   | Institution    | Country   | Contact (Email)
  2 | Prof. JongWon Kim      | Gwangju Institute of Science and Technology (GIST) | Korea | jongwon@nm.gist.ac.kr
  3 | Prof. Sunyoung Han     | Konkuk University | Korea | syhan@konkuk.ac.kr
  4 | Aris Cahyadi Risdianto | Gwangju Institute of Science and Technology (GIST) | Korea | aris@nm.gist.ac.kr
- 5 | Pang-Wei Tsai          | National Cheng Kung University (NCKU) | Taiwan | pwtsai@ee.ncku.tw.edu.tw
+ 5 | Pang-Wei Tsai          | National Cheng Kung University (NCKU) | Taiwan | pwtsai@ee.ncku.edu.tw
  6 | Kiattikun Kawila       | Chulalongkorn University | Thailand | kiattikun.ka@gmail.com
 
 
