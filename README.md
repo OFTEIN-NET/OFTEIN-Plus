@@ -22,13 +22,13 @@ outcomes.
 
 ## Co-PI (Corresponding): Teck Chaw LING, tchaw@um.edu.my, Tel: +603-79676362
 Associate Professor, Faculty of Computer Science and Information Technology,
-University of Malaya, Malaysia
-APAN Network Research Workshop Co-Chair
-MYREN Network and Distributed WG Chair 
+University of Malaya, Malaysia.
+APAN Network Research Workshop Co-Chair.
+MYREN Network and Distributed WG Chair. 
 
 and 
 
 ## Co-PI: JongWon Kim, jongwon@gist.ac.kr, Tel: +82-10-7930-2837
-Professor, School of Information & Communications, GIST, Gwangju, KOREA
+Professor, School of Information & Communications, GIST, Gwangju, KOREA.
 APAN Technology Area Director (2014~) & APAN Cloud WG Co-Chair (2014~)
 
