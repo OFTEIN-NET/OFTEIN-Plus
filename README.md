@@ -1,6 +1,6 @@
-# OFTEIN+ Project (Under Asi@Connect Grant) 
+# OF@TEIN+ Project (Sponsored by Asi@Connect Grant No: Asi@Connect-17-094) 
 
-##  OF@TEIN+ : Open/Federated Playgrounds for Future Networks
+##  OF@TEIN+ : Open/Federated Playground for Future Networks
 ### Building and operating Open and Federated Future Internet (SDN/NFV/Cloud-integrated) Testbed
 
 This project is a response to Asi@Connect WP4 (Future Internet) grant support calling.
