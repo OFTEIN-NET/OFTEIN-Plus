@@ -20,15 +20,15 @@ Visualizing “Plays over Playground”.
 technology and attempt to enhance the playground capability/agility by applying the investigation
 outcomes.
 
-## Co-PI (Corresponding): Teck Chaw LING, tchaw@um.edu.my, Tel: +603-79676362
-Associate Professor, Faculty of Computer Science and Information Technology,
-University of Malaya, Malaysia.
-APAN Network Research Workshop Co-Chair.
-MYREN Network and Distributed WG Chair. 
-
-and 
-
-## Co-PI: JongWon Kim, jongwon@gist.ac.kr, Tel: +82-10-7930-2837
-Professor, School of Information & Communications, GIST, Gwangju, KOREA.
-APAN Technology Area Director (2014~) & APAN Cloud WG Co-Chair (2014~)
+## Co-PI (Corresponding): Teck Chaw LING, tchaw@um.edu.my
+Associate Professor, Faculty of Computer Science and Information Technology,<br>
+University of Malaya, Malaysia.<br>
+APAN Network Research Workshop Co-Chair.<br>
+MYREN Network and Distributed WG Chair. <br>
+<br>
+and <br>
+<br>
+## Co-PI: JongWon Kim, jongwon@smartx.kr
+Professor, School of Information & Communications, GIST, Gwangju, KOREA.<br>
+APAN Technology Area Director (2014~) & APAN Cloud WG Co-Chair (2014~)<br>
 
