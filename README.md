@@ -1,7 +1,6 @@
-# OF@TEIN+ Project <br>(Sponsored by Asi@Connect Grant No: Asi@Connect-17-094) 
-
-##  OF@TEIN+ : Open/Federated Playground for Future Networks
+![picture](Images/logo2.png)
 ### Building and operating Open and Federated Future Internet (SDN/NFV/Cloud-integrated) Testbed
+### A Project Sponsored by Asi@Connect <br>(Grant No: Asi@Connect-17-094) 
 
 OF@TEIN+: Open/Federated Playground for Future Networks is proposed to further enhance, extend and expand OF@TEIN. The
 main purpose of OF@TEIN+ is to build and operate an Open and Federated Future Internet (SDN/NFV/Cloud-integrated) Testbed in further promoting SDN-Cloud R&D collaboration among TEIN partners. 
