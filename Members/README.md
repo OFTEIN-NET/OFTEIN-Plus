@@ -1,5 +1,7 @@
 # OF@TEIN+ Participating Members
 
+![picture](../Images/OF@TEIN+_Members.png)
+
 ## Ambassadors
 
 

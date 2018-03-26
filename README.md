@@ -1,8 +1,8 @@
 ![picture](Images/logo2.png)
 ### Building and operating Open and Federated Future Internet (SDN/NFV/Cloud-integrated) Testbed
-### A Project Sponsored by Asi@Connect <br>(Grant No: Asi@Connect-17-094) 
+### A Project Sponsored by Asi@Connect <br>(Grant No: Asi@Connect-17-094)
 
-OF@TEIN+: Open/Federated Playground for Future Networks is proposed to further enhance, extend and expand OF@TEIN. The
+OF@TEIN+: Open/Federated Playground for Future Networks is proposed to further enhance, extend and expand [OF@TEIN](https://github.com/OFTEIN-NET/OFTEIN). The
 main purpose of OF@TEIN+ is to build and operate an Open and Federated Future Internet (SDN/NFV/Cloud-integrated) Testbed in further promoting SDN-Cloud R&D collaboration among TEIN partners. 
 
 ## Primary goals of this project are:
@@ -29,3 +29,6 @@ MYREN Network and Distributed WG Chair. <br>
 Professor, School of Information & Communications, GIST, Gwangju, KOREA.<br>
 APAN Technology Area Director (2014~) & APAN Cloud WG Co-Chair (2014~)<br>
 
+## Project Members
+
+Please go to [Member](../Members/README.md) Page to see the list of participating Collaborators for OF@TEIN+ Project.
