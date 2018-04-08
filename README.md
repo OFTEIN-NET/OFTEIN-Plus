@@ -48,4 +48,4 @@ Please go to [Meetings](Meetings/README.md) page to see the list of previous pro
 
 ## Project Presentations
 
-Please go to [Presentations](Presentations/OFTEIN_Plus_Overview.pdf) page to see the detailed project presentation.
+Please go to [Presentations](Presentations/README.md) page to see the detailed project presentation.
