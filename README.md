@@ -31,21 +31,21 @@ APAN Technology Area Director (2014~) & APAN Cloud WG Co-Chair (2014~)<br>
 
 ## Project Members
 
-Please go to [Member](Members/README.md) to see the list of participating collaborators for OF@TEIN+ Project.
+Please go to [Project Members](Members/README.md) page to see the list of participating collaborators for OF@TEIN+ Project.
 
 ## OF@TEIN+ Playground 
 
-Please go to [Presentations](Presentations/Playground_Overview.pdf) to see the list of participating collaborators for OF@TEIN+ Project.
+Please go to [OF@TEIN+ Playground Presentation](Presentations/Playground_Overview.pdf) to check OF@TEIN+ Playground details.
 
 ## Software Solutions
 
-Please go to [Ops-Software](Playground-Ops-Software/README.md) to see the list of developed operational software solutions.
-Please go to [Apps-Software](Playground-Apps-Software/README.md) to see the list of developed application software solutions.
+Please go to [Ops-Software](Playground-Ops-Software/README.md) page to see the list of developed operational software solutions and
+[Apps-Software](Playground-Apps-Software/README.md) page to see the list of developed application software solutions.
 
 ## Project Meetings
 
-Please go to [Meetings](Meetings/README.md) to see the list of previous project meetings.
+Please go to [Meetings](Meetings/README.md) page to see the list of previous project meetings.
 
 ## Project Presentations
 
-Please go to [Presentations](Presentations/OFTEIN_Plus_Overview.pdf) to see the detailed project presentation.
+Please go to [Presentations](Presentations/OFTEIN_Plus_Overview.pdf) page to see the detailed project presentation.
