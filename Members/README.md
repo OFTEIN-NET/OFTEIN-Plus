@@ -10,10 +10,10 @@ No | Name   | Institution    | Country   | Contact (Email)
  1 | Prof. Teck Chaw Ling   | University of Malaya (UM) | Malaysia | tchaw@um.my.edu
  2 | Prof. JongWon Kim      | Gwangju Institute of Science and Technology (GIST) | Korea | jongwon@nm.gist.ac.kr
  3 | Prof. Sunyoung Han     | Konkuk University | Korea | syhan@konkuk.ac.kr
- 4 | Aris Cahyadi Risdianto | Gwangju Institute of Science and Technology (GIST) | Korea | aris@nm.gist.ac.kr
- 5 | Pang-Wei Tsai          | National Cheng Kung University (NCKU) | Taiwan | pwtsai@ee.ncku.edu.tw
- 6 | Kiattikun Kawila       | Chulalongkorn University | Thailand | kiattikun.ka@gmail.com
-
+ 4 | Prof. Chaodit Aswakul  | Chulalongkorn University | Thailand | chaodit.a@chula.ac.th
+ 5 | Prof. Chu-Sing Yang    | National Cheng Kung University (NCKU) | Taiwan | csyang@ee.ncku.edu.tw
+ 6 | Aris Cahyadi Risdianto | Gwangju Institute of Science and Technology (GIST) | Korea | aris@nm.gist.ac.kr
+ 7 | Pang-Wei Tsai          | National Cheng Kung University (NCKU) | Taiwan | pwtsai@ee.ncku.edu.tw
 
 
 ## Players
@@ -26,8 +26,11 @@ No | Name   | Institution    | Country   | Contact (Email)
  3 | Hao-Ping Liu   | National Cheng Kung University (NCKU) | Taiwan | alen6516@gmail.com
  4 | Wu-Hsien Chang | National Cheng Kung University (NCKU) | Taiwan | shane50306@gmail.com
  5 | Cheng Chong Kuo    | National Cheng Kung University (NCKU) | Taiwan | jjguo@crypto.ee.ncku.edu.tw
- 6 | Sethalat Rodhetbhai | Slipakorn University | Thailand | sethalat@cp.su.ac.th
-
+ 6 | Kiattikun Kawilla   | Chulalongkorn University | Thailand | kiattikun.ka@gmail.com
+ 7 | Sethalat Rodhetbhai | Slipakorn University | Thailand | sethalat@cp.su.ac.th
+ 8 | Chanthan Hel | ITC | Cambodia  |   |
+ 9 | Yu-Hung    | NT-UST    | Taiwan    |   |
+ 10| Mehmood Asif   | Jeju University   | Korea |   |
 
 ## Student Fellows
 
@@ -40,6 +43,9 @@ No | Name   | Supervisor | Institution    | Country   | Contact (Email)
  4 | Rio Harapan P S | Basuki Suhardiman | ITB |  Indonesia | basuki@itb.ac.id
  5 | Niyas K Haneefa | Dr. R. Manivasakan | IIT Madras | India | rmani@ee.iitm.ac.in
  6 | Nguyen Hong Luong and<br /> Manh Nguyen Tien | Nguyen Huu Thanh | HUST | Vietnam | nguyenhuuthanh@set.hust.edu.vn
+ 7 | Sumeth Sirijaroensombat and <br /> Noppawich Nimwatanak    | Prof. Chaodit Aswakul | Chulalonkorn University   |  Thailand | chaodit.a@chula.ac.th
+ 8 | Khooi Xin Zhe | Prof. Teck Chaw Ling  |   UM  | Malaysia | tchaw@um.my.edu
+ 9 | Phan Van Hien and <br /> Nguyen Ngoc Hung  | Dr. Dinh Van Dzung | VNU |    |
 
 
 # OF@TEIN+ List of Project Collaborators
