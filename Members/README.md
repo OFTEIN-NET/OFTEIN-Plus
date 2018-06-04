@@ -13,7 +13,7 @@ No | Name   | Institution    | Country   | Contact (Email)
  4 | Prof. Chaodit Aswakul  | Chulalongkorn University | Thailand | chaodit.a@chula.ac.th
  5 | Prof. Chu-Sing Yang    | National Cheng Kung University (NCKU) | Taiwan | csyang@ee.ncku.edu.tw
  6 | Aris Cahyadi Risdianto | Gwangju Institute of Science and Technology (GIST) | Korea | aris@nm.gist.ac.kr
- 7 | Pang-Wei Tsai          | National Cheng Kung University (NCKU) | Taiwan | pwtsai@ee.ncku.edu.tw
+ 7 | Pang-Wei Tsai, PHD     | National Cheng Kung University (NCKU) | Taiwan | pwtsai@ee.ncku.edu.tw
 
 
 ## Players
