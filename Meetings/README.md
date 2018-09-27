@@ -1,5 +1,8 @@
 # OF@TEIN+ Meetings
 
+## [OF@TEIN+ Annual Meeting @ Auckland, New Zealand, 2018](Auckland-meeting-2018.md)
+![Annual-meeting-2018](../Images/Auckland-meeting-2018.jpg)
+
 ## [OF@TEIN+ Annual Meeting @ University of Malaya, Malaysia, 2018](Annual-meeting-2018.md)
 ![Annual-meeting-2018](../Images/Annual-meeting-2018.jpg)
 
