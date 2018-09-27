@@ -1,6 +1,6 @@
 # OF@TEIN+ Participating Members
 
-![picture](../Images/OF@TEIN+_Members_2018.jpg)
+![picture](../Images/OF@TEIN+_Members.png)
 
 ## Ambassadors
 
@@ -13,8 +13,7 @@ No | Name   | Institution    | Country   | Contact (Email)
  4 | Prof. Chaodit Aswakul  | Chulalongkorn University | Thailand | chaodit.a@chula.ac.th
  5 | Prof. Chu-Sing Yang    | National Cheng Kung University (NCKU) | Taiwan | csyang@ee.ncku.edu.tw
  6 | Aris Cahyadi Risdianto | Gwangju Institute of Science and Technology (GIST) | Korea | aris@nm.gist.ac.kr
- 7 | Pang-Wei Tsai          | National Cheng Kung University (NCKU) | Taiwan | pwtsai@ee.ncku.edu.tw
- 8 | Dr. Dinh Van Dzung     | Vietnam National University (VNU) | Vietnam   | dzung.dinh@vnu.edu.vn
+ 7 | Pang-Wei Tsai, PhD     | National Cheng Kung University (NCKU) | Taiwan | pwtsai@ee.ncku.edu.tw
 
 
 ## Players
@@ -29,13 +28,13 @@ No | Name   | Institution    | Country   | Contact (Email)
  5 | Cheng Chong Kuo    | National Cheng Kung University (NCKU) | Taiwan | jjguo@crypto.ee.ncku.edu.tw
  6 | Kiattikun Kawilla   | Chulalongkorn University | Thailand | kiattikun.ka@gmail.com
  7 | Sethalat Rodhetbhai | Slipakorn University | Thailand | sethalat@cp.su.ac.th
- 8 | Chanthan Hel | ITC | Cambodia  | hel.chanthan65@gmail.com  
- 9 | Yu-Hung    | NT-UST    | Taiwan    |   
- 10| Mehmood Asif   | Jeju University   | Korea | malikasifmahmoodawan@gmail.com 
+ 8 | Chanthan Hel | ITC | Cambodia  | hel.chanthan65@gmail.com
+ 9 | Yu-Hung Chen   | NTUST | Taiwan    |
+ 10| Mehmood Asif   | Jeju University   | Korea | malikasifmahmoodawan@gmail.com
  11| Shu-Wei Lee   | National Cheng Kung University (NCKU) | Taiwan | S.W_dnwtbphd@mail.ee.ncku.edu.tw
  12| Tzu-Ying Fang   | National Cheng Kung University (NCKU) | Taiwan | ann750028@gmail.com
  13| Kuang-Ting Cheng   | National Cheng Kung University (NCKU) | Taiwan | timcheng74@gmail.com
-   
+
 
 ## Student Fellows
 
@@ -51,7 +50,7 @@ No | Name   | Supervisor | Institution    | Country   | Contact (Email)
  7 | Sumeth Sirijaroensombat and <br /> Noppawich Nimwatanak    | Prof. Chaodit Aswakul | Chulalonkorn University   |  Thailand | chaodit.a@chula.ac.th
  8 | Khooi Xin Zhe | Prof. Teck Chaw Ling  |   UM  | Malaysia | tchaw@um.my.edu
  9 | Phan Van Hien and <br /> Nguyen Ngoc Hung  | Dr. Dinh Van Dzung | VNU | Vietnam | dzung.dinh@vnu.edu.vn
-10 | Sackda Sckbouavong <br /> Siliphone Laviengvong <br /> Katay XAIYASOMBATH | | NUOL | Laos | 
+10 | Sackda Sckbouavong <br /> Siliphone Laviengvong <br /> Katay XAIYASOMBATH | | NUOL | Laos |
 11 | Sonam Dargay <br /> Suraj Mukhia <br /> Tshering Jamtsho | Sonam Penjor | RUB | Bhutan | s_penjor@rub.edu.bt
 12 | Galura Muhammad Suranegara <br /> Dimas Agil Marendra | Eueung Mulyana | ITB | Indonesia | eueung@stei.itb.ac.id
 13 | Sann Seyha <br /> Meas Vichetlor <br /> Chhun Heng <br /> Chhea Kimchheang | Chantan Hel | ITC | Cambodia | hel.chanthan65@gmail.com
