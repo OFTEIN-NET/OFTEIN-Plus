@@ -1,6 +1,6 @@
 # OF@TEIN+ Participating Members
 
-![picture](../Images/OF@TEIN+_Members.png)
+![picture](../Images/OF@TEIN+_Members_2018.jpg)
 
 ## Ambassadors
 
