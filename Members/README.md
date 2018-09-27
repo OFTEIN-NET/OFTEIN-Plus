@@ -14,6 +14,7 @@ No | Name   | Institution    | Country   | Contact (Email)
  5 | Prof. Chu-Sing Yang    | National Cheng Kung University (NCKU) | Taiwan | csyang@ee.ncku.edu.tw
  6 | Aris Cahyadi Risdianto | Gwangju Institute of Science and Technology (GIST) | Korea | aris@nm.gist.ac.kr
  7 | Pang-Wei Tsai, PhD     | National Cheng Kung University (NCKU) | Taiwan | pwtsai@ee.ncku.edu.tw
+ 8 | Dr. Dinh Van Dzung     | Vietnam National University (VNU) | Vietnam | dzung.dinh@vnu.edu.vn
 
 
 ## Players
@@ -50,10 +51,10 @@ No | Name   | Supervisor | Institution    | Country   | Contact (Email)
  7 | Sumeth Sirijaroensombat and <br /> Noppawich Nimwatanak    | Prof. Chaodit Aswakul | Chulalonkorn University   |  Thailand | chaodit.a@chula.ac.th
  8 | Khooi Xin Zhe | Prof. Teck Chaw Ling  |   UM  | Malaysia | tchaw@um.my.edu
  9 | Phan Van Hien and <br /> Nguyen Ngoc Hung  | Dr. Dinh Van Dzung | VNU | Vietnam | dzung.dinh@vnu.edu.vn
-10 | Sackda Sckbouavong <br /> Siliphone Laviengvong <br /> Katay XAIYASOMBATH | | NUOL | Laos |
-11 | Sonam Dargay <br /> Suraj Mukhia <br /> Tshering Jamtsho | Sonam Penjor | RUB | Bhutan | s_penjor@rub.edu.bt
-12 | Galura Muhammad Suranegara <br /> Dimas Agil Marendra | Eueung Mulyana | ITB | Indonesia | eueung@stei.itb.ac.id
-13 | Sann Seyha <br /> Meas Vichetlor <br /> Chhun Heng <br /> Chhea Kimchheang | Chantan Hel | ITC | Cambodia | hel.chanthan65@gmail.com
+10 | Sackda Sckbouavong, <br /> Siliphone Laviengvong and <br /> Katay XAIYASOMBATH | | NUOL | Laos |
+11 | Sonam Dargay, <br /> Suraj Mukhia and <br /> Tshering Jamtsho | Sonam Penjor | RUB | Bhutan | s_penjor@rub.edu.bt
+12 | Galura Muhammad Suranegara and <br /> Dimas Agil Marendra | Eueung Mulyana | ITB | Indonesia | eueung@stei.itb.ac.id
+13 | Sann Seyha, <br /> Meas Vichetlor, <br /> Chhun Heng and <br /> Chhea Kimchheang | Chantan Hel | ITC | Cambodia | hel.chanthan65@gmail.com
 
 
 # OF@TEIN+ List of Project Collaborators
